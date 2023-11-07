@@ -34,10 +34,10 @@ public class UpdatePage extends BaseClass {
 
 		log = new LoginPom();
 		updated = new UpdatePOM();
-		log.Login("v.vignesh.0811@gmail.com");
+		log.Login("dark");
 
 		log.buttonclick();
-		log.Paswd("Fresh@@1996");
+		log.Paswd("passwrod#");
 		;
 		log.checkboxbtn();
 		log.submitbtn();

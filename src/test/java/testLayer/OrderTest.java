@@ -38,10 +38,10 @@ public class OrderTest extends BaseClass {
 		//driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(40));
 		log= new LoginPom();
 		
-		log.Login("v.vignesh.0811@gmail.com");
+		log.Login("dark");
 		
 	  log.buttonclick();
-	  log.Paswd("Fresh@@1996");; 
+	  log.Paswd("password");; 
 	  log.checkboxbtn();
 		 log.submitbtn();
 		// WebDriverWait wait=new WebDriverWait(driver,Duration.ofSeconds(20));

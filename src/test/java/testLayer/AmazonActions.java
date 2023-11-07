@@ -44,10 +44,10 @@ public class AmazonActions extends BaseClass {
 
 		log = new LoginPom();
 		amazonfun = new ActionsPOM();
-		log.Login("v.vignesh.0811@gmail.com");
+		log.Login("dark");
 
 		log.buttonclick();
-		log.Paswd("Fresh@@1996");
+		log.Paswd("passwrod#");
 		log.checkboxbtn();
 		log.submitbtn();
 

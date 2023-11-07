@@ -43,10 +43,10 @@ public class OrderTestNg extends BaseClass {
 
 		log = new LoginPom();
 		orders = new ordersPOM();
-		log.Login("v.vignesh.0811@gmail.com");
+		log.Login("dark");
 
 		log.buttonclick();
-		log.Paswd("Fresh@@1996");
+		log.Paswd("password");
 		;
 		log.checkboxbtn();
 		log.submitbtn();
