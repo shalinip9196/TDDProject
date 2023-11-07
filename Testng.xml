@@ -1,0 +1,18 @@
+<suite name="AMAZON">
+<test name="Regression" allow-return-values="true">
+ <classes> 
+
+<class name="testLayer.LoginTestNg"/> 
+<class name="testLayer.UpdatePage"/>
+<class name="testLayer.OrderTestNg"/>
+
+ </classes> 
+</test>
+<test name="Smoke" allow-return-values="true">
+<classes>
+
+<class name="testLayer.AmazonActions"/> 
+<class name="testLayer.Shoppingcart"/>  
+</classes>
+</test>
+</suite>
