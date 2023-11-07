@@ -58,7 +58,7 @@ public Object[][] Details() { Object
 	  log.checkboxbtn();
 	  log.submitbtn();
 	
-	  Assert.assertEquals(log.ValidatePageTitle(),"Hello, vignesh");
+	  Assert.assertEquals(log.ValidatePageTitle(),"Hello, dark");
 	} 
 	
 	@Test

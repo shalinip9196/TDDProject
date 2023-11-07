@@ -44,6 +44,7 @@ public class AmazonActions extends BaseClass {
 
 		log = new LoginPom();
 		amazonfun = new ActionsPOM();
+		
 		log.Login("dark");
 
 		log.buttonclick();
